@@ -1,25 +1,31 @@
 {
   "files": {
     "main.css": "/sonyliv1/static/css/main.a7b735f1.chunk.css",
-    "main.js": "/sonyliv1/static/js/main.a291cf34.chunk.js",
-    "main.js.map": "/sonyliv1/static/js/main.a291cf34.chunk.js.map",
+    "main.js": "/sonyliv1/static/js/main.92ca3452.chunk.js",
+    "main.js.map": "/sonyliv1/static/js/main.92ca3452.chunk.js.map",
     "runtime-main.js": "/sonyliv1/static/js/runtime-main.1458d99f.js",
     "runtime-main.js.map": "/sonyliv1/static/js/runtime-main.1458d99f.js.map",
-    "static/js/2.a7861ef3.chunk.js": "/sonyliv1/static/js/2.a7861ef3.chunk.js",
-    "static/js/2.a7861ef3.chunk.js.map": "/sonyliv1/static/js/2.a7861ef3.chunk.js.map",
+    "static/js/2.7f0cabfc.chunk.js": "/sonyliv1/static/js/2.7f0cabfc.chunk.js",
+    "static/js/2.7f0cabfc.chunk.js.map": "/sonyliv1/static/js/2.7f0cabfc.chunk.js.map",
     "index.html": "/sonyliv1/index.html",
     "static/css/main.a7b735f1.chunk.css.map": "/sonyliv1/static/css/main.a7b735f1.chunk.css.map",
-    "static/js/2.a7861ef3.chunk.js.LICENSE.txt": "/sonyliv1/static/js/2.a7861ef3.chunk.js.LICENSE.txt",
+    "static/js/2.7f0cabfc.chunk.js.LICENSE.txt": "/sonyliv1/static/js/2.7f0cabfc.chunk.js.LICENSE.txt",
+    "static/media/Bade ache lagte h.25c5d30e.png": "/sonyliv1/static/media/Bade ache lagte h.25c5d30e.png",
     "static/media/Gullak.e175699f.jpeg": "/sonyliv1/static/media/Gullak.e175699f.jpeg",
+    "static/media/Indian Idol.7a13c5e5.png": "/sonyliv1/static/media/Indian Idol.7a13c5e5.png",
+    "static/media/KBC.849e707c.png": "/sonyliv1/static/media/KBC.849e707c.png",
+    "static/media/Kapil sharma.4d7d7617.png": "/sonyliv1/static/media/Kapil sharma.4d7d7617.png",
     "static/media/LOGOLIV.130519fb.png": "/sonyliv1/static/media/LOGOLIV.130519fb.png",
+    "static/media/Super Dancer.0f48de4a.png": "/sonyliv1/static/media/Super Dancer.0f48de4a.png",
     "static/media/Your Honor.e294b75d.jpeg": "/sonyliv1/static/media/Your Honor.e294b75d.jpeg",
     "static/media/chalo koi baat nahi.9297b854.jpeg": "/sonyliv1/static/media/chalo koi baat nahi.9297b854.jpeg",
-    "static/media/scam 1982.209eb1f8.jpeg": "/sonyliv1/static/media/scam 1982.209eb1f8.jpeg"
+    "static/media/scam 1982.209eb1f8.jpeg": "/sonyliv1/static/media/scam 1982.209eb1f8.jpeg",
+    "static/media/serialsearchKRPK.af224cba.png": "/sonyliv1/static/media/serialsearchKRPK.af224cba.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1458d99f.js",
-    "static/js/2.a7861ef3.chunk.js",
+    "static/js/2.7f0cabfc.chunk.js",
     "static/css/main.a7b735f1.chunk.css",
-    "static/js/main.a291cf34.chunk.js"
+    "static/js/main.92ca3452.chunk.js"
   ]
 }
