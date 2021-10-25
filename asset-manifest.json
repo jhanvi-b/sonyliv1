@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sonyliv1/static/css/main.644d9d6b.chunk.css",
-    "main.js": "/sonyliv1/static/js/main.31adb3a4.chunk.js",
-    "main.js.map": "/sonyliv1/static/js/main.31adb3a4.chunk.js.map",
+    "main.js": "/sonyliv1/static/js/main.0661adcb.chunk.js",
+    "main.js.map": "/sonyliv1/static/js/main.0661adcb.chunk.js.map",
     "runtime-main.js": "/sonyliv1/static/js/runtime-main.1458d99f.js",
     "runtime-main.js.map": "/sonyliv1/static/js/runtime-main.1458d99f.js.map",
     "static/js/2.649c0d66.chunk.js": "/sonyliv1/static/js/2.649c0d66.chunk.js",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.1458d99f.js",
     "static/js/2.649c0d66.chunk.js",
     "static/css/main.644d9d6b.chunk.css",
-    "static/js/main.31adb3a4.chunk.js"
+    "static/js/main.0661adcb.chunk.js"
   ]
 }
